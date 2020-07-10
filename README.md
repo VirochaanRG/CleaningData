@@ -1,1 +1,2 @@
 # CleaningData
+In this repository you can find the required scripts and data to properly analyze the files found in UCI_HAR_DATA.zip to get a clean and tidy data set consisting of the mean and standard deviation of each measurement
